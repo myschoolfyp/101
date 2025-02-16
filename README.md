@@ -1,0 +1,1 @@
+Students and parents registration is added into registration form with. categories of class level and class type. Moreover profile dashboard is separated from. different components, students, Admirals, parents and teachers are different components are created. They attach data from database
